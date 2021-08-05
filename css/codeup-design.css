@@ -1,0 +1,28 @@
+body {
+    background-color: #F0F0F0;
+}
+
+
+nav a {
+    font-size: .75em;
+    color: black;
+}
+
+.nav-background {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 59px;
+    width: 100%;
+    top: 37px;
+    z-index: -1000;
+}
+
+nav .nav-item {
+    position: relative;
+    bottom: 6px;
+}
+
+.navbar{
+    font-family: "Abel";
+}
