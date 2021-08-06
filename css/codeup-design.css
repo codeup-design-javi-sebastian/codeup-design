@@ -154,3 +154,7 @@ h1, h3 {
     color: black;
     font-size: .5em;
 }
+
+h1 {
+    font-size: 64px;
+}
