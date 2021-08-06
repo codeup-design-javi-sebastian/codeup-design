@@ -97,31 +97,64 @@ h1, h3 {
     font-family: "Abel";
 }
 
+/*.d-flex{*/
+/*    margin-top: 10px;*/
+/*}*/
+
 .dot1-apple {
     height: 18px;
     width: 18px;
     background-color: #E6563B;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Anton";
+    color: black;
+    font-size: .5em;
+
 }
 .dot2-apple {
     height: 18px;
     width: 18px;
     background-color: #EB9D3A;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Anton";
+    color: black;
+    font-size: .5em;
 }
 .dot3-apple {
     height: 18px;
     width: 18px;
     background-color: #7CB06C;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Anton";
+    color: black;
+    font-size: .5em;
 }
 .dot4-apple {
     height: 18px;
     width: 18px;
     background-color: #00ABA9;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Anton";
+    color: black;
+    font-size: .5em;
+}
+
+h1 {
+    font-size: 64px;
 }
